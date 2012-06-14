@@ -1,0 +1,1 @@
+Bare basic mongoid + devise project that I built for my own reference.  It's basically this https://github.com/railsapps/rails3-mongoid-devise, so if you want better instructions as to how to do this yourself, refer to that project.
